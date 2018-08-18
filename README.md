@@ -8,11 +8,15 @@ Users/ariestiyansyah/code/research/github/ariestiyansyah/surabayapy/model/test/c
 
 ### Creating arpa file for binary build :
 
+```
 /bin/bin/./lmplz --text vocabulary.txt --arpa  words.arpa --o 3.
+```
 
 ### Creating binary file :
 
+```
 /bin/bin/./build_binary -T -s words.arpa  lm.binary
+```
 
 
 ### Creating Trie
