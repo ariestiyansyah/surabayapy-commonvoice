@@ -1,5 +1,22 @@
 
-Csv File
+### Initiate
+
+```
+├── test
+│   ├── cinta.wav
+│   ├── saya.wav
+│   └── test.csv
+├── train
+│   ├── dia.wav
+│   └── train.csv
+├── dev
+│   ├── kamu.wav
+│   └── dev.csv
+├── vocab.txt
+├── alphabet.txt
+```
+
+### CSV Content
 
 ```
 Users/ariestiyansyah/code/research/github/ariestiyansyah/surabayapy/model/test/saya.wav,64472,saya
